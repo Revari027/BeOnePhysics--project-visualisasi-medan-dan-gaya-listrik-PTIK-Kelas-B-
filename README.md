@@ -31,15 +31,19 @@ cd BeOnePhysics
 ```
 
 ### 2️⃣ Buat Virtual Environment (Opsional)
+```bash
 python -m venv venv
-
+```
 ### Aktifkan Virtual Environment
 
 Windows:
+```bash
 venv\Scripts\activate
-
+```
 Mac / Linux:
+```bash
 source venv/bin/activate
+```
 
 ### 4️⃣ Install Dependensi
 pip install -r requirements.txt
