@@ -69,13 +69,15 @@ Pilih menu (0-4):
 ```
 
 🧭 Panduan Menu
-1️⃣ Interaksi Muatan
+
+### 1️⃣ Interaksi Muatan
 
 Simulasikan dua muatan (Q1 di (0,0) dan Q2 di posisi tertentu).
 
 Tampilkan arah gaya Coulomb antar muatan.
 
-2️⃣ Medan Listrik & Garis Medan
+
+### 2️⃣ Medan Listrik & Garis Medan
 
 Visualisasi interaktif medan listrik dengan:
 
@@ -85,7 +87,8 @@ Vektor medan (quiver)
 
 Heatmap intensitas (log skala)
 
-3️⃣ Analisis Kuantitatif 🧮
+
+### 3️⃣ Analisis Kuantitatif 🧮
 
 Input muatan sumber (dalam nC)
 
@@ -120,15 +123,23 @@ Titik Gaya 1: (0.5, 0) m, q_uji=2 nC
 ```
 PDF laporan otomatis disimpan di folder hasil_simulasi_.../.
 
-4️⃣ Superposisi Medan
+### 4️⃣ Superposisi Medan
 Masukkan beberapa muatan sumber
 
 Hitung total medan listrik di titik sensor dengan prinsip superposisi
 
 Tampilkan visualisasi dan laporan PDF
 
-Tampilan Simulasi
-<p align="center"> <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="500"/><br> <em>Contoh visualisasi medan listrik</em> </p>
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/5bdaddc9-33ed-4c5c-b0bd-6063d62e196a" 
+    alt="stream" 
+    width="500" 
+    height="500"
+  />
+  <br>
+  <em>Contoh visualisasi medan listrik</em>
+</p>
 
 👨‍💻 Dibuat Oleh
 
